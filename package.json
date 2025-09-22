@@ -41,7 +41,7 @@
     "next": "^14.2.30",
     "react": "^18",
     "react-dom": "^18",
-    "react-hook-form": "^7.53.2",
+    "react-hook-form": "^7.63.0",
     "react-intersection-observer": "^9.13.1",
     "react-modal": "^3.16.1",
     "react-toastify": "^11.0.2",
