@@ -38,7 +38,7 @@
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.19",
     "js-cookie": "^3.0.7",
-    "next": "^14.2.35",
+    "next": "^15.5.19",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.53.2",
