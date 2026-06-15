@@ -33,7 +33,7 @@
     "@tanstack/react-query-persist-client": "^5.100.14",
     "@types/react-modal": "^3.16.3",
     "antd": "^5.22.7",
-    "axios": "^1.16.0",
+    "axios": "^1.17.0",
     "classnames": "^2.5.1",
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.19",
